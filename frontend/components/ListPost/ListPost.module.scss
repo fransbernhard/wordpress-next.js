@@ -1,0 +1,16 @@
+.list-post {
+    &__item {
+        background-color: blanchedalmond;
+        padding: 15px;
+        margin-bottom: 15px;
+        border-radius: 5px;
+    }
+
+    &__item-btn {
+        display: inline-block;
+        padding: 6px 10px;
+        background-color: beige;
+        border-radius: 10px;
+        margin: 10px 0;
+    }
+}
